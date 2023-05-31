@@ -1,5 +1,6 @@
 # SQL-Music-Store-Analysis
-SQL project to analyze online music store data
+SQL project to analyze online music store data.
+
 In this project we will analyze the dataset using SQL and help the store to understand its business growth by answering simple questions. 
 
 ### Database and Tools
